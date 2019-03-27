@@ -1,0 +1,7 @@
+#хелп
+help= longhelp
+smt = 
+#токен бота
+token= daasd
+		#шортхелп
+shorthelpfile = shortHelp.txt
